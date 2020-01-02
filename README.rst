@@ -55,9 +55,9 @@ Clone & Install
 ::
 
     Clone the repository:
-        git clone https://github.com/libindic/indictrans.git
+        git clone https://github.com/libindic/indic-trans.git
         ------------------------OR--------------------------
-        git clone https://github.com/irshadbhat/indictrans.git
+        git clone https://github.com/irshadbhat/indic-trans.git
 
     Change to the cloned directory:
         cd indic-trans
